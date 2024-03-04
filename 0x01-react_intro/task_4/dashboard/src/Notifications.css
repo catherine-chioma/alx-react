@@ -1,0 +1,7 @@
+.Notifications {
+  border: 3px solid;
+  border-style: dotted;
+  border-color: #ee3c3c;
+  padding: 5px;
+  overflow: hidden;
+}
